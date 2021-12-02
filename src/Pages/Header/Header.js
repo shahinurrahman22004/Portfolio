@@ -23,7 +23,7 @@ const Header = () => {
                 
                 </Nav>
                 <Nav>
-                <Nav.Link href="https://drive.google.com/file/d/1XXLYAo1xznE1ckZvh29VIMEVaM_RVfyR/view?usp=sharing">Download Resume</Nav.Link>
+                <Nav.Link href="https://drive.google.com/file/d/1rIevC76ZX9siV73OSACsOdWKFC-qtUQ5/view?usp=sharing">Download Resume</Nav.Link>
                 </Nav>
             </Navbar.Collapse>
         </Container>
