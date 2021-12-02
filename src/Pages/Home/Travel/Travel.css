@@ -1,0 +1,8 @@
+.travel img{
+    transition: .3s;
+}
+.travel img:hover {
+    border-radius: 20px;
+    padding: 0;
+    transform: scale(1.2);
+}
